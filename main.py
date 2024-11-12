@@ -25,6 +25,7 @@ def show_banner():
     print("=" * 85)
     print("|                                     EarthQuake                                    |")
     print("|                          Sistem Monitoring Gempa Indonesia                        |")
+    print("|                       Monitor the Earth, Protect What Matters                     |")
     print("=" * 85)
 
 #  Fungsi untuk membaca data
